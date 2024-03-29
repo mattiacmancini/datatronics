@@ -1,0 +1,12 @@
+name: datatronics
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12.2
+  - black
+  - isort
+  - pytest
+  - pylint
+  - pip
+  - pip:
